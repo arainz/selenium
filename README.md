@@ -320,3 +320,6 @@ the name.
 Refer to the [Building Web
 Driver](https://github.com/SeleniumHQ/selenium/wiki/Building-WebDriver)
 wiki page for the last word on building the bits and pieces of Selenium.
+
+<img alt="gallery/browserstack-logo-600x315" src="http://rise.com.pk/gallery_gen/ece5baa065d3dcbe57fd447df7775b61_180x100.png">
+<p class="wb-stl-normal"><a data-finalurl="http://browserstack.com/" data-name="browserstack.com/" href="http://browserstack.com/" target="_blank" title="Browser Stack">Browser Stack</a> is useful and will help us for Instantly test regressions, reproduce bugs and ensure compatibility</p>
